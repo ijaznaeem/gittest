@@ -1,0 +1,6 @@
+stock, mulazm
+transport
+farms
+	fish tadad
+feed
+
